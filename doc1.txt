@@ -3,5 +3,5 @@
 444
 555=+
 Выберите пункт доставки.
-New button
-Cancel
+New button -del-
+Cancel -del-
